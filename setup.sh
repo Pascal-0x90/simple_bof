@@ -3,10 +3,10 @@
 AFL_LOCATION=$1
 
 # Make build dir
-mkdir ../build
+mkdir build
 
 # Start compilation
-gcc chall.bin.c -o ../build/chall.bin
+gcc chall.bin.c -o ./build/chall.bin
 
 # Remove soruce
 cd ..
