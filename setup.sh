@@ -10,4 +10,4 @@ gcc chall.bin.c -o ./build/chall.bin
 
 # Remove soruce
 cd ..
-rm -rf ./harness
+#rm -rf ./harness
